@@ -1,0 +1,16 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.com/orgs/community/discussions
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
+
+templates:
+  - name: エラーレポート
+    about: エラーバグ報告Issue
+    filename: error_report.md
+  - name: 基本テンプレート
+    about: 作成用テンプレート
+    filename: issue-basic-template.md
